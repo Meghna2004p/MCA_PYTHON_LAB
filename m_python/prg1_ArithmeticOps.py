@@ -1,0 +1,10 @@
+x=6
+y=2
+z=x+y
+print(z)
+a=x-y
+print(a)
+b=x/y
+print(b)
+c=x*y
+print(c)
